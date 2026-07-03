@@ -22,7 +22,9 @@
 5. Compare search results on the old and new pages
 
 **Actual Result:** the new page shows the "No lawyers found" placeholder
+
 **Expected Result:** results should be consistent when the URL is copied and reopened
+
 **Requirements:** [see project requirements documentation] (BA & PO discussion in comments)
 
 ---
@@ -35,7 +37,9 @@
 2. Press the Enter key
 
 **Actual Result:** pressing Enter does not trigger the search; the search results page is not displayed
+
 **Expected Result:** pressing Enter should trigger the search; the search results page should open
+
 **Requirements:** [see project requirements documentation]
 
 ---
@@ -50,6 +54,7 @@
 4. Click the browser "back" button
 
 **Actual Result:** clicking "back" navigates the user to the sign-up form instead of the search results list
+
 **Expected Result:** clicking "back" should return the user to the search results list with the previously applied search and filter criteria preserved
 
 ---
@@ -63,7 +68,9 @@
 3. Select any Pro with a connected calendar from the list
 
 **Actual Result:** the calendar week starts on Sunday
+
 **Expected Result:** the calendar week should start on Monday
+
 **Requirements:** [see project requirements documentation]
 
 ---
@@ -79,7 +86,9 @@
 1. Scroll down through the Pro list
 
 **Actual Result:** the filters panel is only visible at the top of the page; scrolling down makes it disappear, leaving only the Pro list visible
+
 **Expected Result:** the filters panel should stay fixed on screen while scrolling through the list, so the user can adjust filters at any point without scrolling back to the top
+
 **Requirements:** [see project requirements documentation]
 
 ---
@@ -95,6 +104,7 @@
 3. In DevTools responsive mode, set viewport width to 938 px or less
 
 **Actual Result:** the text inside the "Add credit card" and "Add bank account" buttons overflows the button borders
+
 **Expected Result:** button text should stay inside the button at all screen sizes without overflowing
 
 ---
@@ -108,6 +118,7 @@
 3. In DevTools, set the viewport to a mobile width, e.g. 491 px
 
 **Actual Result:** the sidebar menu stays open and doesn't collapse; the user has to scroll horizontally to see and interact with the page content
+
 **Expected Result:** on mobile viewports the sidebar menu should collapse into a hamburger menu, or be hidden by default, so the main content takes up the full screen width and is fully readable without horizontal scrolling
 
 ---
@@ -121,6 +132,7 @@
 3. In DevTools, set viewport width to 689 px or less, e.g. 550 px
 
 **Actual Result:** the card details don't fit inside the card container; text and the card icon overflow the block, making the information cut off and hard to read
+
 **Expected Result:** card details should fit fully inside the container block at all screen sizes
 
 ---
