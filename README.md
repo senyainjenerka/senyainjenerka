@@ -8,8 +8,8 @@ QA-инженер с опытом ручного и исследовательс
 
 ## Портфолио 
 - Тестовая документация
-  -  [Тест-кейсы]([https://ссылочку_сюда](https://github.com/senyainjenerka/senyainjenerka/blob/main/TEST_CASES%20(3).md))
-  -  [Баг-репорты]([https://ссылочку_сюда](https://github.com/senyainjenerka/senyainjenerka/blob/main/BUG_REPORTS%20(1).md))
+  -  [Тест-кейсы]([(https://github.com/senyainjenerka/senyainjenerka/blob/main/TEST_CASES%20(3).md)])
+  -  [Баг-репорты]([(https://github.com/senyainjenerka/senyainjenerka/blob/main/BUG_REPORTS%20(1).md)])
 - Коллекция в Postman 
   -  [Название проекта](https://ссылочку_сюда)
   
@@ -41,5 +41,4 @@ QA-инженер с опытом ручного и исследовательс
 ## Мои контакты
 
 [![Linkedin: jennaqa](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ksenia-sereda-536b492a7)
-[![Instagram: jennaqa](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/qa.jenna/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/jennaisakova)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/kseerokss)
