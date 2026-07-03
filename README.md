@@ -10,8 +10,7 @@ QA-инженер с опытом ручного и исследовательс
 - Тестовая документация
   -  [Тест-кейсы](https://github.com/senyainjenerka/senyainjenerka/blob/main/TEST_CASES%20(3).md)
   -  [Баг-репорты](https://github.com/senyainjenerka/senyainjenerka/blob/main/BUG_REPORTS%20(1).md)
-- Коллекция в Postman 
-  -  [Название проекта](https://ссылочку_сюда)
+
   
 ## Инструменты и технологии
 Блок для инструментов. Вы можете использовать мои иконки или создать папку у себя в проекте
