@@ -4,7 +4,7 @@ QA-инженер с опытом ручного и исследовательс
 
 ## My CV 
 
-[Здесь будет сслыка на резюме](https://ссылочку_сюда)
+[Резюме](https://github.com/senyainjenerka/senyainjenerka/blob/f843170afc1b03d4007465d868f7c3d6dddc5e24/CV_Ksenia_Sereda.pdf)
 
 ## Портфолио 
 - Тестовая документация
