@@ -8,8 +8,8 @@ QA-инженер с опытом ручного и исследовательс
 
 ## Портфолио 
 - Тестовая документация
-  -  [Тест-кейсы]([(https://github.com/senyainjenerka/senyainjenerka/blob/main/TEST_CASES%20(3).md)])
-  -  [Баг-репорты]([(https://github.com/senyainjenerka/senyainjenerka/blob/main/BUG_REPORTS%20(1).md)])
+  -  [Тест-кейсы](https://github.com/senyainjenerka/senyainjenerka/blob/main/TEST_CASES%20(3).md)
+  -  [Баг-репорты](https://github.com/senyainjenerka/senyainjenerka/blob/main/BUG_REPORTS%20(1).md)
 - Коллекция в Postman 
   -  [Название проекта](https://ссылочку_сюда)
   
